@@ -10,7 +10,7 @@ A machine learning-powered web app that predicts the **popularity score** of Spo
 
 ## 🚀 Live Demo
 
-👉 [Launch App](https://your-streamlit-app-link.streamlit.app)
+👉 [Launch App](https://spotify-app-by-narasimhamanam.streamlit.app/)
 
 ---
 
